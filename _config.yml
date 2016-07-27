@@ -1,19 +1,4 @@
-name: WOOD PARK DENTAL
-favicon: null
-layout_spectrum: 0.44453
 typography_spectrum: 0.7043929158244282
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,19 @@ color:
   lightness: 0.07810896937735379
   saturation: 0.15127603011205792
   rhythmicContrast: 0.28145417873747647
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44453
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: WOOD PARK DENTAL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
